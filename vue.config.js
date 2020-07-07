@@ -1,3 +1,4 @@
 module.exports = {
-  publicPath: '/vue-portfolio'
+  publicPath: '/vue-portfolio',
+  assetsDir: '/vue-portfolio'
 }
